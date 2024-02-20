@@ -24,7 +24,7 @@ Run the `cyclegan.ipynb` or use the command:
  `python train.py`
 
 5. Inference
-You can download pretrained models and see all the visualization in this [link](https://drive.google.com/drive/folders/1OMqm_9Xl3M-BQvaRWwknS5p5juCQW4cz?usp=drive_link)
+You can download pretrained models and see all the visualization in training progress via this [link](https://drive.google.com/drive/folders/1OMqm_9Xl3M-BQvaRWwknS5p5juCQW4cz?usp=drive_link)
 
 6. Experiment
 I run experiment in NVIDIA RTX3090 24gb GPU. Here is the training curve
